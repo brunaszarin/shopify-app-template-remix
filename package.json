@@ -31,8 +31,7 @@
     "@remix-run/serve": "^2.16.1",
     "@shopify/app-bridge-react": "^4.1.6",
     "@shopify/cli": "^3.63.1",
-    "@shopify/polaris": "^12.0.0",
-    "@shopify/shopify-app-remix": "^3.7.0",
+    "@shopify/shopify-app-remix": "file:shopify-shopify-app-remix-3.8.2.tgz",
     "@shopify/shopify-app-session-storage-prisma": "^6.0.0",
     "isbot": "^5.1.0",
     "prisma": "^6.2.1",
@@ -73,5 +72,6 @@
     "@graphql-codegen/client-preset": "4.7.0",
     "@graphql-codegen/typescript-operations": "4.5.0",
     "minimatch": "9.0.5"
-  }
+  },
+  "packageManager": "pnpm@8.15.5+sha256.4b4efa12490e5055d59b9b9fc9438b7d581a6b7af3b5675eb5c5f447cee1a589"
 }
